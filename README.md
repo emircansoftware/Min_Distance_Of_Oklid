@@ -1,1 +1,1 @@
-# Min_Distance_Of_Oklid
+You can the find minumun oklid distance of points in list.
